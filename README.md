@@ -39,3 +39,4 @@ Whenever you got stuck you can always discard your changes with
 ` git reset --hard`
 
 and then checkout desired branch with command showed above."# zadaniedomowe-selenium" 
+"# zadaniedomowe-selenium" 
